@@ -1,4 +1,4 @@
-Feature: Login Data Driven with Excel
+Feature: CucumberDDTExcel: Login Data Driven with Excel
 
 
   Scenario Outline: Login Data Driven Excel

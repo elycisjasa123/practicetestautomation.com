@@ -1,4 +1,4 @@
-Feature: Login with Valid credentials
+Feature: CucumberLogin: Login with Valid credentials
 
   @sanity
   Scenario: Positive LogIn test

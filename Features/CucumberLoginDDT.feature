@@ -1,4 +1,4 @@
-Feature: Login Data Driven
+Feature: CucumberLoginDDT: Login Data Driven
 
   Scenario Outline: Positive LogIn test
     Given user Launch browser
